@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shaunik Gupta</h1>
 <h3 align="center">A passionate MERN stack developer looking for a fresher job in the software industry to enhance my skills and adapt to different technologies. Eager to learn different cloud technologies and use them in various industry-standard projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaunikgupta23&label=Profile%20views&color=0e75b6&style=flat" alt="shaunikgupta23" /> </p>
