@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaunikgupta23&label=Profile%20views&color=0e75b6&style=flat" alt="shaunikgupta23" /> </p>
 
-- 🌱 I’m currently learning **GCP**
+- 🌱 I’m currently learning **GCP** and **AI**
 
 - 👨‍💻 All of my projects are available at [https://personal-portfolio-shaunik-guptas-projects.vercel.app/](https://personal-portfolio-shaunik-guptas-projects.vercel.app/)
 
